@@ -3,6 +3,7 @@ import TabBar from '@/components/TabBar'
 import React from 'react'
 import ChatItem from '@/components/ChatDetails'
 import {  FlatList } from "react-native"
+import FloatingButton from '@/components/FloatingButton'
 interface ChatInfo {
   id: string;
   name: string;
@@ -30,6 +31,7 @@ export default function index() {
         renderItem={({ item }) => <ChatItem {...item} />}
         keyExtractor={(item) => item.id}
       />
+        <FloatingButton />
    </>
   )
 }
