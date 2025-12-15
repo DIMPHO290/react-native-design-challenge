@@ -42,7 +42,7 @@ StyleSheet for styling## Installation & Testing (Android)
 
 1. Clone the repo:  
 ```bash
-git https://github.com/DIMPHO029/react-native-audio-recorder.git
+git https://github.com/DIMPHO290/react-native-audio-recorder.git
 ```
 2. Navigate to project folder:  
 ```bash
