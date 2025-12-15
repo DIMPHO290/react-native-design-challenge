@@ -1,50 +1,69 @@
-# Welcome to your Expo app 👋
+🎨 React Native Design Challenge
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A React Native Design Challenge application built with Expo and TypeScript, focused on implementing clean UI layouts, reusable components, and responsive design using StyleSheet.
+This project demonstrates the ability to translate design concepts into functional React Native interfaces.
 
-## Get started
+🚀 Features
+🧩 UI & Design Implementation
 
-1. Install dependencies
+Clean and modern user interface
 
-   ```bash
-   npm install
-   ```
+Reusable UI components (buttons, cards, inputs)
 
-2. Start the app
+Consistent spacing, colors, and typography
 
-   ```bash
-   npx expo start
-   ```
+Responsive layout for different screen sizes
 
-In the output, you'll find options to open the app in a
+🧭 Navigation
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Screen-to-screen navigation using React Navigation
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Well-structured component hierarchy
 
-## Get a fresh project
+🎯 Design Focus
 
-When you're ready, run:
+Component-based design approach
 
+Separation of concerns (screens, components, styles)
+
+Styled using React Native StyleSheet
+
+🛠 Built With
+
+React Native
+
+Expo
+
+TypeScript
+
+React Navigation
+
+StyleSheet for styling## Installation & Testing (Android)
+
+1. Clone the repo:  
 ```bash
-npm run reset-project
+git https://github.com/DIMPHO029/react-native-audio-recorder.git
 ```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+2. Navigate to project folder:  
+```bash
+cd react-native-note-taker
+```
+3. Open in VS Code:  
+```bash
+code .
+```
+4. Change to development branch:  
+```bash
+git checkout dev
+```
+5. Install dependencies:  
+```bash
+npm install
+```
+6. Start Expo:  
+```bash
+npm start
+```
+7. Test on Android:  
+   - Download **Expo Go** from Google Play.  
+   - Scan the QR code from Expo DevTools.
