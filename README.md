@@ -38,11 +38,12 @@ TypeScript
 
 React Navigation
 
-StyleSheet for styling## Installation & Testing (Android)
+StyleSheet for styling 
+## Installation & Testing (Android)
 
 1. Clone the repo:  
 ```bash
-git https://github.com/DIMPHO290/react-native-audio-recorder.git
+git clone https://github.com/DIMPHO290/react-native-design-challenge.git
 ```
 2. Navigate to project folder:  
 ```bash
